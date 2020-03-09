@@ -139,4 +139,4 @@ include/
 
 # pip chepoins json
 pip-selfcheck.json
-
+mnist.model.best.hdf5
